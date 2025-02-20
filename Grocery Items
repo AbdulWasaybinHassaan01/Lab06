@@ -6,6 +6,7 @@ using System;
             Console.WriteLine("Spagetti");
             Console.WriteLine("Instant Ramen");
             Console.WriteLine("Chocolates");
+            Console.WriteLine("Chocolates");
         }
     }
 }
