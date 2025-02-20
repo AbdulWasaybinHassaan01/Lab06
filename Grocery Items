@@ -1,0 +1,11 @@
+using System;
+{
+        {
+            Console.WriteLine("Wheat Flour");
+            Console.WriteLine("Breakfast Cereals");
+            Console.WriteLine("Spagetti");
+            Console.WriteLine("Instant Ramen");
+            Console.WriteLine("Chocolates");
+        }
+    }
+}
